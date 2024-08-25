@@ -1,4 +1,4 @@
-# Sports Betting Dashboard
+# Bankroll Tracker (sport-betting)
 
 ## Overview
 
