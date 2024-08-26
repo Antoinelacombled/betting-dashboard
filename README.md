@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Sports Betting Dashboard is a React-based web application designed to help sports bettors track their bets, analyze their performance, and make informed decisions. The dashboard provides a comprehensive view of your betting history, calculates key metrics, and offers tools like the Kelly Criterion calculator to optimize your betting strategy.
+This Sports Betting Dashboard is a React-based web application designed to help sports bettors track their bets, analyze their performance, and make informed decisions. The dashboard provides a comprehensive view of your betting history, calculates key metrics, and offers tools like the Kelly Criterion calculator to optimize and track your betting strategy.
 
 ## Features
 
