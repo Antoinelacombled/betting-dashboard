@@ -27,7 +27,6 @@ This Sports Betting Dashboard is a React-based web application designed to help 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/sports-betting-dashboard.git
    ```
 
 2. Navigate to the project directory:
